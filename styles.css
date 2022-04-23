@@ -298,3 +298,10 @@ body {
   background: #606c38;
 }
 /*slides end */
+/*travel page*/
+.travel_info div
+{
+display: flex;
+align-items: center;
+justify-content: center;
+}
