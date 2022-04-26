@@ -36,7 +36,7 @@
           </li>
           <li class="navbar__btn">
             <!--navigatie punt-->
-            <a href="signin.html" class="button"> sign in </a>
+            <a href="signin.html" class="button"> sign up </a>
           </li>
         </ul>
         <!--navigatie menu end-->
@@ -44,6 +44,14 @@
     </nav>
     <script src="app.js"></script>
     <!--navigation bar end-->
-    <h1>travel</h1>
+    <div id="travel_info">
+      <img src="" id="travelpicture">
+      <p id="travel_place"></p>
+      <p id="travel_lenght"></p>
+      <p id="travel_description"></p>
+      <input type="button" onclick="previous()" value="<<">
+      <input type="button" onclick="next()" value=">>">
+    </div>
+    <script src="ajax.js"></script>
 </body>
 </html>
