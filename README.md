@@ -32,7 +32,6 @@ Permanente evaluatie (20%)
 
 
 ideen 
-bootstrap kader maken voor email address op te geven
-en dan php en sql gebruiken om de emails op te slaan 
+php en sql gebruiken om de emails op te slaan 
 
 lessen volgen voor pynq
