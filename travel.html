@@ -2,6 +2,7 @@
     <link rel="stylesheet" href="styles.css" />
     <link rel="icon" type="image/x-icon" href="/images/favicon.ico"><!--moet nog een favico toevoegen-->
     <title>Nomadlife-travel</title>
+    <link rel="stylesheet" href="bootstrap.css">
   </head>
   <body>
     <!--navigations bar start-->
@@ -44,14 +45,15 @@
     </nav>
     <script src="app.js"></script>
     <!--navigation bar end-->
-    <div id="travel_info">
-      <img src="" id="travelpicture">
+    <div id="travel_info" class="text-center">
+      <img src="" id="travelpicture" class="mt-3">
       <p id="travel_place"></p>
       <p id="travel_lenght"></p>
       <p id="travel_description"></p>
-      <input type="button" onclick="previous()" value="<<">
-      <input type="button" onclick="next()" value=">>">
+      <button type="button" onclick="previous()" value="<<" class="btn btn-lg btn-primary"><<</button>
+      <button type="button" onclick="next()" value=">>" class="btn btn-lg btn-primary">>></button>
     </div>
     <script src="ajax.js"></script>
+    <script src="bootstrap.js"></script>
 </body>
 </html>
