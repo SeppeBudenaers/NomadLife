@@ -2,12 +2,12 @@
 
 Individuele opdracht (20%)
 
-- [ ] (PYNQ) Linux server
+- [x] (PYNQ) Linux server
 - [ ] (cPanel) Dynamic DNS
-- [ ] FTP
-- [ ] SSH
+- [x] FTP
+- [x] SSH
 - [ ] (GitHub) Git pull
-- [ ] (Caddy) http webserver
+- [x] (Caddy) http webserver
 - [ ] (FastCGI) PHP engine
 - [ ] MySQL (MariaDB) database
 
@@ -35,4 +35,4 @@ ideen
 bootstrap kader maken voor email address op te geven
 en dan php en sql gebruiken om de emails op te slaan 
 
-pynq board is gewoon kut kan dat niet opzetten vraag aan bart
+lessen volgen voor pynq
