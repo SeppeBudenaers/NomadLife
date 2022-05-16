@@ -6,10 +6,11 @@ Individuele opdracht (20%)
 - [ ] (cPanel) Dynamic DNS
 - [x] FTP
 - [x] SSH
-- [ ] (GitHub) Git pull
+- [x]
+- [x] (GitHub) Git pull
 - [x] (Caddy) http webserver
-- [ ] (FastCGI) PHP engine
-- [ ] MySQL (MariaDB) database
+- [x] (FastCGI) PHP engine
+- [x] MySQL (MariaDB) database
 
 Portfolio (20%)
 
@@ -19,8 +20,8 @@ Portfolio (20%)
 - [x] Bootstrap
 - [x] JavaScript
 - [x] Ajax
-- [ ] PHP
-- [ ] SQL
+- [x] PHP
+- [x] SQL
 
 Permanente evaluatie (20%)
 
