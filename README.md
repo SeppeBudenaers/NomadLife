@@ -6,7 +6,6 @@ Individuele opdracht (20%)
 - [ ] (cPanel) Dynamic DNS
 - [x] FTP
 - [x] SSH
-- [x]
 - [x] (GitHub) Git pull
 - [x] (Caddy) http webserver
 - [x] (FastCGI) PHP engine
