@@ -14,9 +14,9 @@ ourRequest.send();
 function imgswap(Data,i){
     var image = document.getElementById('travelpicture');
     image.src = Data[i].img
-    document.getElementById("travel_place").innerHTML ="place: " + ourData[i].place
-    document.getElementById("travel_lenght").innerHTML ="length of the trip: " + ourData[i].lenght
-    document.getElementById("travel_description").innerHTML ="vibe: " + ourData[i].description
+    document.getElementById("travel_place").innerHTML ="Place : " + ourData[i].place
+    document.getElementById("travel_lenght").innerHTML ="Length of the trip : " + ourData[i].lenght
+    document.getElementById("travel_description").innerHTML ="Vibe : " + ourData[i].description
 
 }
 
