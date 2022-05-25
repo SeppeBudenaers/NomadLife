@@ -24,10 +24,10 @@ Portfolio (20%)
 
 Permanente evaluatie (20%)
 
-- [ ] Wekelijkse commits in GitHub (10 weken = 10%)
+- [x] Wekelijkse commits in GitHub (10 weken = 10%)
 - [x] Git branch “live”
 - [x] Git branch “dev”
-- [ ] 2 parallelle “feature” branches
+- [x] 2 parallelle “feature” branches
 - [x] 1 clean resolved merge conflict
 
 
