@@ -3,7 +3,7 @@
 Individuele opdracht (20%)
 
 - [x] (PYNQ) Linux server
-- [ ] (cPanel) Dynamic DNS
+- [x] (cPanel) Dynamic DNS
 - [x] FTP
 - [x] SSH
 - [x] (GitHub) Git pull
@@ -30,8 +30,4 @@ Permanente evaluatie (20%)
 - [x] 2 parallelle “feature” branches
 - [x] 1 clean resolved merge conflict
 
-
-ideen 
-php en sql gebruiken om de emails op te slaan 
-
-lessen volgen voor pynq
+i think  everything is done :)
